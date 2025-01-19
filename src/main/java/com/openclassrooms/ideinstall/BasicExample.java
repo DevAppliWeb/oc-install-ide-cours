@@ -4,8 +4,8 @@ public class BasicExample {
 
 	public static void main(String[] args) {
 		int i;
-		//Résolution du bug
-		for(i=0; i<3; i++) {
+		//Résolution du bug - config token gitHub
+		for(i=0; i<5; i++) {
 			System.out.println("Hello bugs !");
 		}
 	}
